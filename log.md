@@ -24,3 +24,9 @@ Today I finished off basic functionality for all arithmetic functions and the eq
 It definitely takes some adjustment to get used to coding for this challenge on top of coursework, but I see the obvious benefits already and I continue to be pleased with my growth and expanding knowledge. So far coding has been a joyride and now doing this challenge has thrown it into overdrive. I am really immersing myself in coding and learning all sorts of things that will benefit me now as well as down-the-road in my coding career - looking forward to completing this project and then launching into a yet-even-bigger project.
 
 Link: https://redmoonx.github.io/Javascript%20Calculator/index.html
+
+### Day 4 ###
+***Today's Progress***
+I did get in at least an hours worth of coding today, howevever it was course work instead of personal project work. Will definitely continue tomorrow, as I am absolutely exhausted today.
+
+https://redmoonx.github.io/Javascript%20Calculator/index.html
