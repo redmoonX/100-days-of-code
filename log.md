@@ -29,4 +29,13 @@ Link: https://redmoonx.github.io/Javascript%20Calculator/index.html
 ***Today's Progress***
 I did get in at least an hours worth of coding today, howevever it was course work instead of personal project work. Will definitely continue tomorrow, as I am absolutely exhausted today.
 
-https://redmoonx.github.io/Javascript%20Calculator/index.html
+Link: https://redmoonx.github.io/Javascript%20Calculator/index.html
+
+### Day 5 ###
+***Today's Progress***
+Added functionality for all memory buttons and decimal point, so now every button works - very cool. There is still a decent amount of polish to add as far as how the output displays and perhaps making the code more efficient - but this is certainly a good working draft of a calculator.
+
+***Thoughts***
+Ok I redeemed myself today and got my daily, non-class coding done early. The fact I did not work on my project yesterday, was really stinging me today and I resolved to make the necessary adjustments to ensure I did not repeat that episode. I have learned my lesson about time management and getting my daily coding done as early as possible so that the day doesn't get away from me and I can continue my streak for the 100 days.
+
+Link: https://redmoonx.github.io/Javascript%20Calculator/index.html
