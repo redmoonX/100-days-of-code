@@ -39,3 +39,12 @@ Added functionality for all memory buttons and decimal point, so now every butto
 Ok I redeemed myself today and got my daily, non-class coding done early. The fact I did not work on my project yesterday, was really stinging me today and I resolved to make the necessary adjustments to ensure I did not repeat that episode. I have learned my lesson about time management and getting my daily coding done as early as possible so that the day doesn't get away from me and I can continue my streak for the 100 days.
 
 Link: https://redmoonx.github.io/Javascript%20Calculator/index.html
+
+### Day 6 ###
+***Today's Progress***
+My first project is DONE! I fixed functionality for: zero (leading zeroes not allowed), decimal (only single decimal point allowed), and memory recall (can now be used in an arithmetic operation - e.g. 100 + MR = X, previously it only displayed the number stored in memory). 
+
+***Thoughts***
+With my first project functional and under my belt, I am quite pleased with how this turned out - especially since when I began, I was skeptical as to whether I could make it work 100% as I had not done anything similar to serve as a guide. Looking back, there has been unquestionable growth by leaps and bounds and I am feeling increasingly confident in my abilities and it is a joy to see all the skills I am learning converge into one project. There were several times where I was stuck or confused or unsure how to implement a feature, but one-by-one, line-by-line I coded my way through all of it and emerged victorious! I am excited to take the next leap and move to my next project - which I am still determining - most likely I will complete and polish a todo app before moving on to a completely novel project.
+
+Link: https://redmoonx.github.io/Javascript%20Calculator/index.html
