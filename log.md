@@ -48,3 +48,12 @@ My first project is DONE! I fixed functionality for: zero (leading zeroes not al
 With my first project functional and under my belt, I am quite pleased with how this turned out - especially since when I began, I was skeptical as to whether I could make it work 100% as I had not done anything similar to serve as a guide. Looking back, there has been unquestionable growth by leaps and bounds and I am feeling increasingly confident in my abilities and it is a joy to see all the skills I am learning converge into one project. There were several times where I was stuck or confused or unsure how to implement a feature, but one-by-one, line-by-line I coded my way through all of it and emerged victorious! I am excited to take the next leap and move to my next project - which I am still determining - most likely I will complete and polish a todo app before moving on to a completely novel project.
 
 Link: https://redmoonx.github.io/Javascript%20Calculator/index.html
+
+### Day 7 ###
+***Today's Progress***
+Spent significant time today working on Project #2. Having some initial challenges getting todo items to display on the page using new logic.
+
+***Thoughts***
+Making good progress - looking forward to making an appealing, modern todo list with some nice animations/features included. Also looking forward to Project #3 coming up!
+
+Link: https://github.com/redmoonX/redmoonX.github.io/tree/master/todo%20list
