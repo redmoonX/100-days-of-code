@@ -57,3 +57,12 @@ Spent significant time today working on Project #2. Having some initial challeng
 Making good progress - looking forward to making an appealing, modern todo list with some nice animations/features included. Also looking forward to Project #3 coming up!
 
 Link: https://github.com/redmoonX/redmoonX.github.io/tree/master/todo%20list
+
+### Day 8 ###
+***Today's Progress***
+Continued progress on Project 2 (todo list) - I've successfully implemented the text input box, add button and functionality and delete functionality. Much of the functionality from my original code is no longer applicable, so I will complete the todo list and integrate the pertinent logic from the original code.
+
+***Thoughts***
+From my Zero to Mastery course, I have learned some new techniques to improve functionality of my todo list and have been able to apply them immediately - so it is great to be able to integrate project and coursework in this way to produce a work-product.
+
+Link: https://github.com/redmoonX/redmoonX.github.io/tree/master/todo%20list
