@@ -66,3 +66,10 @@ Continued progress on Project 2 (todo list) - I've successfully implemented the 
 From my Zero to Mastery course, I have learned some new techniques to improve functionality of my todo list and have been able to apply them immediately - so it is great to be able to integrate project and coursework in this way to produce a work-product.
 
 Link: https://github.com/redmoonX/redmoonX.github.io/tree/master/todo%20list
+
+### Day 9 ###
+***Today's Progress***
+Spent much of the day working through Free Code Camp final projects to obtain Responsive Web Design Certification.
+
+***Thoughts***
+Very pleased to be getting my certification and looking forward to racking up more in the near future.
