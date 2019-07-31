@@ -78,9 +78,9 @@ Link: https://www.freecodecamp.org/certification/fcc36f93d78-3581-4992-ba07-5dda
 
 ### Day 10 ###
 ***Today's Progress***
-
+worked on formatting of todo-list items, and also strike-through feature (on click); however the strike-through is not functioning and requires more troubleshooting - once that is done I should be about done.
 
 ***Thoughts***
+A little frustrated about strike-through feature not working yet, despite working fine previously, but also still riding high from COMPLETING MY CERTIFICATE :)
 
-
-Link:
+Link: https://github.com/redmoonX/redmoonX.github.io/tree/master/todo%20list
