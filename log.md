@@ -73,3 +73,14 @@ Spent much of the day working through Free Code Camp final projects to obtain Re
 
 ***Thoughts***
 Very pleased to be getting my certification and looking forward to racking up more in the near future.
+
+Link: https://www.freecodecamp.org/certification/fcc36f93d78-3581-4992-ba07-5ddad2b11e87/responsive-web-design
+
+### Day 10 ###
+***Today's Progress***
+
+
+***Thoughts***
+
+
+Link:
