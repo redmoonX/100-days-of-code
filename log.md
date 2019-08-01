@@ -84,3 +84,12 @@ worked on formatting of todo-list items, and also strike-through feature (on cli
 A little frustrated about strike-through feature not working yet, despite working fine previously, but also still riding high from COMPLETING MY CERTIFICATE :)
 
 Link: https://github.com/redmoonX/redmoonX.github.io/tree/master/todo%20list
+
+### Day 11 ###
+***Today's Progress***
+Deconflicted bootstrap css with my custom css so that list items can be clicked to complete/strike.
+
+***Thoughts***
+Very pleased to have triumphed again after struggling recently with my css not working. It turned out to be bootstrap conflicting with my own css, and i could not find answers anywhere and had to figure it out myself via trial and error. Very happy!
+
+Link: https://github.com/redmoonX/redmoonX.github.io/tree/master/todo%20list
