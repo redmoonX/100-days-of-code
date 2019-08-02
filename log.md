@@ -93,3 +93,12 @@ Deconflicted bootstrap css with my custom css so that list items can be clicked 
 Very pleased to have triumphed again after struggling recently with my css not working. It turned out to be bootstrap conflicting with my own css, and i could not find answers anywhere and had to figure it out myself via trial and error. Very happy!
 
 Link: https://github.com/redmoonX/redmoonX.github.io/tree/master/todo%20list
+
+### Day 12 ###
+***Today's Progress***
+Project #2 completed! I added functionality for all buttons including toggle all and delete all.
+
+***Thoughts***
+There is always more to be added and refined, but all the essential functionality is working and error-free as far as I can tell so I am pleased with the project and looking forward to tackling the next project... #3!
+
+Link: https://github.com/redmoonX/redmoonX.github.io/tree/master/todo%20list
