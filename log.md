@@ -102,3 +102,10 @@ Project #2 completed! I added functionality for all buttons including toggle all
 There is always more to be added and refined, but all the essential functionality is working and error-free as far as I can tell so I am pleased with the project and looking forward to tackling the next project... #3!
 
 Link: https://github.com/redmoonX/redmoonX.github.io/tree/master/todo%20list
+
+### Day 13 ###
+***Today's Progress***
+In between projects so I worked on FreeCodeCamp today, reverse string function.
+
+***Thoughts***
+I know the logic that is needed but am having issues with scope. Sigh, pretty deflated feeling after a string of successes - but I suppose that is just how it goes, and I will pick it up again tomorrow.
