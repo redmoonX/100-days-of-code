@@ -109,3 +109,17 @@ In between projects so I worked on FreeCodeCamp today, reverse string function.
 
 ***Thoughts***
 I know the logic that is needed but am having issues with scope. Sigh, pretty deflated feeling after a string of successes - but I suppose that is just how it goes, and I will pick it up again tomorrow.
+
+### Day 14 ###
+***Today's Progress***
+My group project has yet to begin, so I made the best use of time and spent most of the weekend (about 5+ hours per day) coding and working through my coursework.
+
+***Thoughts***
+Feeling excellent about all the progress made as I have been relatively stagnant the last two weeks.
+
+### Day 15 ###
+***Today's Progress***
+My group project has yet to begin, so I made the best use of time and spent most of the weekend (about 5+ hours per day) coding and working through my coursework.
+
+***Thoughts***
+Uncovered an opportunity/potential project to help a family friend with a website that could really use some help and I feel I know enough to be able to make some major improvements and that feels great - my first potential REAL project that will count toward "professional" experience and one that people will actually visit/use - so looking forward to that.
