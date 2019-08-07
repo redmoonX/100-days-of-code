@@ -123,3 +123,17 @@ My group project has yet to begin, so I made the best use of time and spent most
 
 ***Thoughts***
 Uncovered an opportunity/potential project to help a family friend with a website that could really use some help and I feel I know enough to be able to make some major improvements and that feels great - my first potential REAL project that will count toward "professional" experience and one that people will actually visit/use - so looking forward to that.
+
+### Day 16 ###
+***Today's Progress***
+New project slated to start this weekend, so I have been working diligently to code and learn more advanced tools and techniques to get ready for what I hope to be my first major Portfolio entry with an eye on future job-hunting. I had some struggles today after deciding to convert my workstation (laptop) from Windows 10 to Linux Ubuntu. I wound up accidently destroying my Windows partitions and had to go full Linux, leaving everything I had done up to this point (in windows) behind. 
+
+***Thoughts***
+It was a bit sad to lose my Windows environment and the setup I had grown accustomed to as I learned about development, however I realize that Linux is the future and where I need to be immersing myself so it is for the better.
+
+### Day 17 ###
+***Today's Progress***
+New project slated to start this weekend, so I have been working diligently to code and learn more advanced tools and techniques to get ready for what I hope to be my first major Portfolio entry with an eye on future job-hunting. In particular I began learning about NPM, node.js, Package.JSON, downloaded react.js and learned to integrate all of these plus browserify into an existing project. Got my Linux up and running good with the essential files and tools I need installed and working fine.
+
+***Thoughts***
+I am quite tired it is almost 11pm, looking forward to continuing my development and getting ready for my big project!
