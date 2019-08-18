@@ -137,3 +137,21 @@ New project slated to start this weekend, so I have been working diligently to c
 
 ***Thoughts***
 I am quite tired it is almost 11pm, looking forward to continuing my development and getting ready for my big project!
+
+### Day 18-27 ###
+
+***Today's Progress***
+Had a stretch where I continued coding, but did not log it. I have been progressing nicely through my Z2M Course and learning a lot about React and coding my second app now. Have also learned some about Node  NPM and backend. I also had some property damage and had to have some emergency repairs done so I also was offline for a couple days as well. So here I am getting back on track.
+
+Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049aa259ac668e54c96b282
+
+
+### Day 28 ###
+August 17 2019
+***Today's Progress***
+Had an rocking day coding React, working on my newest solo project: Starwars Explorer using SWAPI . I basically started yesterday with mapping out some basic functionality, and today I worked on my components props states and the interconnection of the three throughout the app. 
+
+***Today's Progress***
+I could not be more excited about a project and see plenty opportunity to really shine and showcase my skills to now, so I am highly motivated. This experience is really akin to Neo hyper-learning his training programs - I am reflecting on the daily deluge of new tools, JS versions, libraries, API's, HTML/CSS syntax, JSON it goes on and on. Although I am learning at a good pace and absorbing much, I am increasingly noticing some topics that require further review or set aside for another time as I push to learn Full Stack JS. This React API app is really forcing me to absorb and intimately understand exactly what is going on in React and how it functions.. a lot of "aha" moments going off, so that is really what it is all about and excited to continue working my app. FInally on that note, I plan to see if i can debug existing, otherwise I will start out from scratch with a new build (1000% up-to-date) and build (and test) one basic feature after another versus adding too many before testing; lesson learned.
+
+Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049aa259ac668e54c96b282
