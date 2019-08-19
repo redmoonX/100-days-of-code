@@ -151,7 +151,18 @@ August 17 2019
 ***Today's Progress***
 Had an rocking day coding React, working on my newest solo project: Starwars Explorer using SWAPI . I basically started yesterday with mapping out some basic functionality, and today I worked on my components props states and the interconnection of the three throughout the app. 
 
-***Today's Progress***
+***Thoughts***
 I could not be more excited about a project and see plenty opportunity to really shine and showcase my skills to now, so I am highly motivated. This experience is really akin to Neo hyper-learning his training programs - I am reflecting on the daily deluge of new tools, JS versions, libraries, API's, HTML/CSS syntax, JSON it goes on and on. Although I am learning at a good pace and absorbing much, I am increasingly noticing some topics that require further review or set aside for another time as I push to learn Full Stack JS. This React API app is really forcing me to absorb and intimately understand exactly what is going on in React and how it functions.. a lot of "aha" moments going off, so that is really what it is all about and excited to continue working my app. FInally on that note, I plan to see if i can debug existing, otherwise I will start out from scratch with a new build (1000% up-to-date) and build (and test) one basic feature after another versus adding too many before testing; lesson learned.
+
+Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049aa259ac668e54c96b282
+
+
+### Day 29 ###
+August 18 2019
+***Today's Progress***
+All out today working on my personal project. I was able to make some progress with importing the data and determining root cause. Once I get the data fetching and manipulation down and have it flow through React the way I intend, it should be smooth sailing to add layout/css.
+
+***Thoughts***
+Man I am pooped, still very much encouraged, but exhausted after a busy weekend. I know that I am learning an awful lot, and letting it sink in. On the flip-side I am learning alot by failing constantly and trying to determine what's not working and why. I am also beginning to feel and understand the life of a programmer; hacking away to get it to work - and then - "Eureka!"
 
 Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049aa259ac668e54c96b282
