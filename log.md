@@ -166,3 +166,13 @@ All out today working on my personal project. I was able to make some progress w
 Man I am pooped, still very much encouraged, but exhausted after a busy weekend. I know that I am learning an awful lot, and letting it sink in. On the flip-side I am learning alot by failing constantly and trying to determine what's not working and why. I am also beginning to feel and understand the life of a programmer; hacking away to get it to work - and then - "Eureka!"
 
 Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049aa259ac668e54c96b282
+
+### Day 30 ###
+August 19 2019
+***Today's Progress***
+Another hard day's work on my React app. Successfully got local data to upload and display, and very close to getting API data to work as well.
+
+***Thoughts***
+Wow.. Day 30! It has been a real brawl learning React, but I can proudly report I am having fun in the midst of struggling, and had a big moment once I got data import to work. I really cannot wait to get API's working so then I can progress toward the UI/UX design.
+
+Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049aa259ac668e54c96b282
