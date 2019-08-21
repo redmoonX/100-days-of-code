@@ -176,3 +176,13 @@ Another hard day's work on my React app. Successfully got local data to upload a
 Wow.. Day 30! It has been a real brawl learning React, but I can proudly report I am having fun in the midst of struggling, and had a big moment once I got data import to work. I really cannot wait to get API's working so then I can progress toward the UI/UX design.
 
 Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049aa259ac668e54c96b282
+
+### Day 31 ###
+August 20 2019
+***Today's Progress***
+Great day for progress.. got my Character component working with fetched API data and passed via props.
+
+***Thoughts***
+It was such a triumphant moment when the name field populated with "Luke Skywalker". FINALLLLYYYYYY - that only took forever, learned a lot about how React and imports work, and what doesn't work, learned a ton of that. I can't explain how many times I re-compiled the app thinking "it's gonna work *this* time" only to eventually be greeted by a screen full of red errors and failure... The original way I learned to do this, was not at all working this time around, and for various reasons. This is tremendous experience and I know I will get better and faster and learn to write more efficiently - but I am really liking this journey I am on and recognize I am making steady progress climbing up this massive mountain... there is so much up ahead of me, but also, a growing amount of things *behind* me.
+
+Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049aa259ac668e54c96b282
