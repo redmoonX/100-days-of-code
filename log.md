@@ -186,3 +186,13 @@ Great day for progress.. got my Character component working with fetched API dat
 It was such a triumphant moment when the name field populated with "Luke Skywalker". FINALLLLYYYYYY - that only took forever, learned a lot about how React and imports work, and what doesn't work, learned a ton of that. I can't explain how many times I re-compiled the app thinking "it's gonna work *this* time" only to eventually be greeted by a screen full of red errors and failure... The original way I learned to do this, was not at all working this time around, and for various reasons. This is tremendous experience and I know I will get better and faster and learn to write more efficiently - but I am really liking this journey I am on and recognize I am making steady progress climbing up this massive mountain... there is so much up ahead of me, but also, a growing amount of things *behind* me.
 
 Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049aa259ac668e54c96b282
+
+### Day 32 ###
+August 21 2019
+***Today's Progress***
+Big day for progress, rocking right along: successfully added all 5 components with API imports working (non-nested).
+
+***Thoughts***
+Wow I could not be happier, I first struggled after adding all the new code at once and THEN testing (oops). Luckily the issue was simply how I set my variable to this.state.etcetera when I have just used this.state and now it works. It was an absolute delight to test after my fix and see everything populated for the first time - it was a beautiful sight - that's what it's all about! Hoping to get much done while off on vacation next week and try to finish this up and ship!
+
+Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049aa259ac668e54c96b282
