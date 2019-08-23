@@ -196,3 +196,12 @@ Big day for progress, rocking right along: successfully added all 5 components w
 Wow I could not be happier, I first struggled after adding all the new code at once and THEN testing (oops). Luckily the issue was simply how I set my variable to this.state.etcetera when I have just used this.state and now it works. It was an absolute delight to test after my fix and see everything populated for the first time - it was a beautiful sight - that's what it's all about! Hoping to get much done while off on vacation next week and try to finish this up and ship!
 
 Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049aa259ac668e54c96b282
+
+
+### Day 33 ###
+August 22 2019
+***Today's Progress***
+Whew I am on a roll. Got my "dissapear" offscreen feature working @ lunch and just now completed adding states/variables to make the buttons control which component is viewable. cool!
+***Thoughts***
+I am just so pleased, not only in the features and the steady progress, but also how well this seems to be going for a first app, and finally because of the apparent success of a new strategy that is emerging.. For now I call it "brute force coding" just muscling my way through to get full functionality and then worrying about css, refinement and re-factoring later. At times I am embarassed thinking I don't want anyone to see this early code because of how ineligant or crude it is but no matter - I am getting the job done and learning along the way, and feel nothing can stop me! It is truly a great time and a good feeling and I absolutely can imagine (enthusiastically) doing this for a living!!
+Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049aa259ac668e54c96b282
