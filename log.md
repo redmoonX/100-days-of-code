@@ -217,7 +217,7 @@ Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049
 
 
 ### Day 39-48 ###
-September 9 2019
+September 5 2019
 ***Today's Progress***
 Project complete (for now)! Project was built and uploaded to Github days ago, but I consider it complete now that I have been able to share it with my classmates. 
 
