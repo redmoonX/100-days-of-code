@@ -214,3 +214,14 @@ This past few days have been phenomenal - busier than usual, but managed to prog
 ***Thoughts***
 It has been a hard slog but just looking at where I was days ago to where I am now, what I've learned, the app and its features and added polish - this has been an outstanding learning experience - I am feeling much more comfortable with React now and ready to learn how Redux fits into the picture. I've decided to tweak a few more things and then consider this completed as far as working React API App. I would like to add more features and polish down the road if there is time, but there is so much more to learn and I can't spend too much time on this project right now much as I may like to.
 Link: https://github.com/redmoonX/redmoonX.github.io/commit/c8b834aab8c94e223049aa259ac668e54c96b282
+
+
+### Day 39-48 ###
+September 9 2019
+***Today's Progress***
+Project complete (for now)! Project was built and uploaded to Github days ago, but I consider it complete now that I have been able to share it with my classmates. 
+
+***Thoughts***
+This has been a tremendous learning experience that I have enjoyed it thoroughly and worked many late nights eager to reach the finish line. I really got a feel for what the "coding work/life" is like; I had the full range of emotions - from despair/frustration to triumph and victory - beautiful! I have spent a decent amount of time on this and am eager to continue on to new projects and progress in my learning and studies.
+
+Link: 
